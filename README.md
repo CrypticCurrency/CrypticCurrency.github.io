@@ -1,37 +1,162 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* {
+  box-sizing: border-box;
+}
+.menu {
+  float:left;
+  width:20%;
+}
+.menuitem {
+  padding:8px;
+  margin-top:7px;
+  border-bottom:1px solid #f1f1f1;
+}
+.main {
+  float:left;
+  width:60%;
+  padding:0 20px;
+}
+.right {
+  background-color:lightblue;
+  float:left;
+  width:20%;
+  padding:10px 15px;
+  margin-top:7px;
+}
 
-You can use the [editor on GitHub](https://github.com/CrypticCurrency/CrypticCurrency.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+@media only screen and (max-width:800px) {
+  /* For tablets: */
+  .main {
+    width:80%;
+  }
+  .right {
+    width:100%;
+  }
+}
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width:100%;
+  }
+}
+</style>
+</head>
+<body style="font-family:Cambria;">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div style="background-color:#f1f1f1;padding:15px;">
+  <h1>ESHACK</h1>
+</div>
 
-### Markdown
+<div style="overflow:auto">
+  <div class="menu">
+    <div class="menuitem">Ric Flair</div>
+    <div class="menuitem">Drip</div>
+    <div class="menuitem">go woo</div>
+    <div class="menuitem">on a bitch</div>
+  </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <div class="main">
+    <h2>The man himself</h2>
+    <p>That dude Eli is fuckin' dope. Stay merkin niggas like 24/7.</p>
+    <img src="https://i.warosu.org/data/lit/img/0066/85/1434263483650.jpg" style="width:100%">
+  </div>
 
-```markdown
-Syntax highlighted code block
+  <div class="right">
+    <h2>Sliding on</h2>
+    <p>Put my mind on it then I put my grind on it.</p>
+    <h2>Tha water</h2>
+    <p>Metro boomin want some more nigga</p>
+    <h2>Go woo on a bitch</h2>
+    <p>gg wp</p>
+  </div>
+</div>
 
-# Header 1
-## Header 2
-### Header 3
+<div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;">Eli is the realest nigga I've ever met.</div>
 
-- Bulleted
-- List
+<iframe style = "display: none;"="560" height="315" src="https://www.youtube.com/embed/OwbI9IY9Roo?rel=0&amp;showinfo=0?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
 
-1. Numbered
-2. List
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* {
+  box-sizing: border-box;
+}
+.menu {
+  float:left;
+  width:20%;
+}
+.menuitem {
+  padding:8px;
+  margin-top:7px;
+  border-bottom:1px solid #f1f1f1;
+}
+.main {
+  float:left;
+  width:60%;
+  padding:0 20px;
+}
+.right {
+  background-color:lightblue;
+  float:left;
+  width:20%;
+  padding:10px 15px;
+  margin-top:7px;
+}
 
-**Bold** and _Italic_ and `Code` text
+@media only screen and (max-width:800px) {
+  /* For tablets: */
+  .main {
+    width:80%;
+  }
+  .right {
+    width:100%;
+  }
+}
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width:100%;
+  }
+}
+</style>
+</head>
+<body style="font-family:Cambria;">
 
-[Link](url) and ![Image](src)
-```
+<div style="background-color:#f1f1f1;padding:15px;">
+  <h1>ESHACK</h1>
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<div style="overflow:auto">
+  <div class="menu">
+    <div class="menuitem">Ric Flair</div>
+    <div class="menuitem">Drip</div>
+    <div class="menuitem">go woo</div>
+    <div class="menuitem">on a bitch</div>
+  </div>
 
-### Jekyll Themes
+  <div class="main">
+    <h2>The man himself</h2>
+    <p>That dude Eli is fuckin' dope. Stay merkin niggas like 24/7.</p>
+    <img src="https://i.warosu.org/data/lit/img/0066/85/1434263483650.jpg" style="width:100%">
+  </div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CrypticCurrency/CrypticCurrency.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  <div class="right">
+    <h2>Sliding on</h2>
+    <p>Put my mind on it then I put my grind on it.</p>
+    <h2>Tha water</h2>
+    <p>Metro boomin want some more nigga</p>
+    <h2>Go woo on a bitch</h2>
+    <p>gg wp</p>
+  </div>
+</div>
 
-### Support or Contact
+<div style="background-color:#f1f1f1;text-align:center;padding:10px;margin-top:7px;font-size:12px;">Eli is the realest nigga I've ever met.</div>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe style = "display: none;"="560" height="315" src="https://www.youtube.com/embed/OwbI9IY9Roo?rel=0&amp;showinfo=0?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
+
